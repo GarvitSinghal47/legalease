@@ -72,7 +72,7 @@ const FormGeneration = ({ data }: any) => {
                 />
                 <div className="">Case File</div>
                 <img
-                  src="https://htm-4-images.s3.amazonaws.com/img/HTMLOGHO_%20NEW.png"
+                  src=""
                   alt=""
                   width={80}
                   height={100}

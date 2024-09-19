@@ -19,7 +19,7 @@ export default function Layout({ children }: LayoutProps) {
               <Link href="/">
                 <div className="text-xl text-center w-full font-semibold">
                   <img
-                    src="https://htm-4-images.s3.amazonaws.com/img/HTMLOGHO_%20NEW.png"
+                    src=""
                     alt=""
                     width={120}
                     height={100}
